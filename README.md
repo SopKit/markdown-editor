@@ -13,3 +13,4 @@ This software is released under the ISC License. ISC License is:
 >  A permissive license lets people do anything with your code with proper attribution and without warranty. The ISC license is functionally equivalent to the BSD 2-Clause and MIT licenses, removing some language that is no longer necessary. 
 
 Refer to the [LICENSE](https://github.com/jbt/markdown-editor/blob/master/LICENSE) file for the complete text.
+
